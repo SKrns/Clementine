@@ -1,0 +1,17 @@
+sWavPlayer
+Copyright (c) 2011-2012 Jody Holmes (Skwire Empire)
+http://skwire.dcmembers.com/fp/?page=swavplayer
+
++ added
+* changed
+- deleted
+! bug fixed
+
+v1.0.2 - 2012-12-30
+    ! The /keep parameter wasn't working.  (Thanks, Mark)
+
+v1.0.1 - 2011-07-08
+    + Website release.
+
+v1.0.0 - 2011-07-07
+    + Initial forum release.
